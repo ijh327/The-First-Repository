@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+$body-bg:       										#EAF1F5;
+$font-family-sans-serif:						'Lato', 'Helevetica Neue', Helevetica, Arial, sans-serif;
+$navbar-height:											45px;
+$navbar-default-bg: 								white;
+$navbar-inverse-brand-color: 				#DC0C09;
+$brand-primary: 										#9E2C2C;
+$jumbotron-bg: 											#bdc3c7;
+
+@import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navar-brand {
+	font-weight: bold;
+}
